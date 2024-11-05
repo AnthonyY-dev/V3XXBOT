@@ -1,3 +1,4 @@
 nextcord
 firebase_admin
 requests
+dotenv
